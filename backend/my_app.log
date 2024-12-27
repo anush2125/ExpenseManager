@@ -1,0 +1,6 @@
+2024-12-23 13:06:27,858 - my_logger - INFO - fetch_expenses_for_date  called with 2024-08-01
+2024-12-23 13:06:30,910 - my_logger - INFO - insert_expense  called with date: 2024-08-28, amount: 50.0, category: Food, notes: Ate pani puri at Jain Savouries, whitefield
+2024-12-23 13:06:30,925 - my_logger - INFO - insert_expense  called with date: 2024-08-28, amount: 301.0, category: Travel, notes: took an uber cab from home to office
+2024-12-23 13:06:59,261 - my_logger - INFO - fetch_expenses_for_date  called with 2024-08-01
+2024-12-23 13:07:01,385 - my_logger - INFO - insert_expense  called with date: 2024-08-28, amount: 50.0, category: Food, notes: Ate pani puri at Jain Savouries, whitefield
+2024-12-23 13:07:01,398 - my_logger - INFO - insert_expense  called with date: 2024-08-28, amount: 301.0, category: Travel, notes: took an uber cab from home to office
